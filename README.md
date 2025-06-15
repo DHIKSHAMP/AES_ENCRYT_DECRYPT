@@ -29,6 +29,10 @@ To run this project locally, follow these steps:
     ```bash
     python main.py
     ```
+## Output
+![Screenshot 2024-08-17 222226](https://github.com/user-attachments/assets/2c6b16d6-e848-4240-a9e3-7e82db0782bd)
+![Screenshot 2024-08-17 222247](https://github.com/user-attachments/assets/e461de88-79a7-47fd-b9dc-d34fcfbbee0b)
+![Screenshot 2024-08-17 222313](https://github.com/user-attachments/assets/2e96b112-0f89-4741-b0f8-45797677ce21)
 
 ## Usage
 
